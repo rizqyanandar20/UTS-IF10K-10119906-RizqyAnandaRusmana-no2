@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Nama     : Rizqy Ananda Rusmana
  * NIM      : 10119906
  * Kelas    : IF-10K
- * Program  : UTS-no1.
+ * Program  : UTS-no2.
  */
 public class UTSIF10K10119906RizqyAnandaRusmanaNo2 {
 
